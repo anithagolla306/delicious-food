@@ -11,7 +11,7 @@ import {
 } from "react-router-dom";
 import "./App.css";
 
-const API = "http://localhost:5000/api";
+const API = "https://delicious-food-19gz.onrender.com/api";
 
 const images = {
   hero: "https://images.unsplash.com/photo-1547592180-85f173990554?auto=format&fit=crop&w=1600&q=85",
